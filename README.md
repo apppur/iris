@@ -1,2 +1,2 @@
 # iris
-a opengl tutorial 
+a opengl tutorial with glfw. 
